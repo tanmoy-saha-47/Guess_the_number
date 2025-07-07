@@ -43,7 +43,7 @@ A fun and interactive browser-based number guessing game built using **HTML**, *
 
 ## ✍️ Author
 
-**Your Name**  
+**Tanmoy Saha**  
 📫 [tanmaysaha47@gmail.com]  
 🔗 [www.linkedin.com/in/tanmay-saha-900881372]
 
